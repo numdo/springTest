@@ -1,5 +1,7 @@
 package com.hello.helloSpring.domain;
 
+import java.util.Objects;
+
 public class Member {
     private long id;
     //식별자
